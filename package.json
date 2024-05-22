@@ -1,8 +1,8 @@
 {
   "name": "node-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "simple node app to test docker",
+  "main": "sever.js",
   "scripts": {
     "start": "node server.js"
   },
